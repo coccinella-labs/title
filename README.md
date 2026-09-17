@@ -4,7 +4,7 @@
 
 # Title
 
-[![Release](https://img.shields.io/github/v/release/libnudget/title?logo=github&label=latest)](https://github.com/libnudget/title/releases)
+[![Release](https://img.shields.io/github/v/release/coccinella-labs/title?logo=github&label=latest)](https://github.com/coccinella-labs/title/releases)
 
 Fix PR title to conventional format.
 
@@ -33,7 +33,7 @@ jobs:
   fix-title:
     runs-on: ubuntu-latest
     steps:
-      - uses: libnudget/title@v1
+      - uses: coccinella-labs/title@v1
 ```
 
 ## Example
